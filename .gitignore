@@ -1,14 +1,15 @@
 Need to do the following for the code to run:
 
-Need to have Jupyter Notebook with Python 3.
+Have Jupyter Notebook with Python3 installed.
 
-Download the Iris dataset from the internet
+Download the Iris dataset from the internet and sklearn
 
 Import
 (1) Panda package
 (2) Matplotlib
 (3) Numpy
 (4) Scatterplot
+(5) Histogram
 
 
 
