@@ -16,11 +16,11 @@ Its ability to show multiple sets of data visually in a small space for easy com
 ## Code language
 Jupyter Notebooks using Python3
 
-## DataSource
-Import a file with the IRIS dataset. Link https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data
+## Data source
+Use of sklearn to import iris dataset.
 
 ## Libraries
 Pandas : Link https://pandas.pydata.org/
 Matplotlib : Link https://matplotlib.org/
 Numpy : Link http://www.numpy.org/
-Plot : xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
